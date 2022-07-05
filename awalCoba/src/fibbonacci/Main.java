@@ -13,7 +13,6 @@ public class Main {
     }
 
     public static int  fibbonacci(int nilai) {
-        int n;
         if (nilai == 0 || nilai == 1)
             return nilai;
         else
